@@ -1,1 +1,1 @@
-My first readme
+I am trying my best to learn this code
